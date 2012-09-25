@@ -108,6 +108,10 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     Apollo
 
+# Extra Multiapth TCP tools
+PRODUCT_PACKAGES += \
+    MPTCPControl
+
 # Extra tools in CM
 PRODUCT_PACKAGES += \
     openvpn \
